@@ -1,1 +1,32 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:aquamarine;
+  font-size: 150%;
+  color:black;
+  text-align: center;
+
+}
+.info-section{
+  font-size: 300%
+  background-color:lightgreen;
+  font-family: courier;
+  border: 1px dotted red;
+  text-transform: uppercase;
+  letter-spacing: 5px
+  color:green;
+  transition: rotate(-30)deg;
+}
+
+h3 {
+  font-size: 300%
+
+
+}
+div{
+  border: 50px groove ivory;
+}
+.font-style{
+  color:black
+  font-family: 'Lobster', cursive;
+  text-shadow: 10px 10px rgba(0,0,0,0.1)
+}
