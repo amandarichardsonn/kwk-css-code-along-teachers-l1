@@ -5,11 +5,11 @@ body {
   color:black;
   text-align: center;
   font-style: italic;
-    color:black
-    font-family: 'Lobster', cursive;
-    text-shadow: 10px 10px #ff0000
-
+  color: black;
+  font-family: 'Lobster', cursive;
+  text-shadow: 10px 10px #ff0000;
 }
+
 .info-section{
   font-size: 300%
   background-color:lightgreen;
@@ -29,5 +29,3 @@ h3 {
 div {
   border: 50px groove ivory;
 }
-
-
