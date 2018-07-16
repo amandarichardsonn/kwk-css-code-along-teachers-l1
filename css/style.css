@@ -28,5 +28,5 @@ div{
 .font-style{
   color:black
   font-family: 'Lobster', cursive;
-  text-shadow: 10px 10px rgba(0,0,0,0.1)
+  text-shadow: 10px 10px #ff0000
 }
